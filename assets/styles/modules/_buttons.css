@@ -1,0 +1,26 @@
+.btn {
+    background-color: var(--mainBlue);
+    color: white;
+    padding: 8px 10px 8px 10px;
+    text-decoration: none;
+}
+
+.btn__pull-rigth {
+    float:right
+}
+
+.btn__top-bar {
+    margin: 16px 36px 6px 20px;
+}
+
+.btn--orange {
+    background-color: var(--mainOrange);
+}
+
+
+.btn--large {
+    color: whitesmoke;
+    font-weight: 400;
+    padding: 20px 30px;
+    font-size: 1.3rem;
+}

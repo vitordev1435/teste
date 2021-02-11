@@ -1,0 +1,29 @@
+.footer {
+    background-color: var(--mainBlue);
+    color: #FFF;
+    padding: .5rem 0;
+    text-align: center;
+
+}
+
+.footer__text{
+    display: block;
+    margin-bottom: 1rem;
+    font-weight: 200;
+}
+
+@media only screen and (min-width: 600px) {
+    .footer {
+        background-color: var(--mainBlue);
+        color: #FFF;
+        padding: 1.5rem 0;
+        text-align: center;
+    
+    }
+    
+    .footer__text{
+    
+      margin-bottom: 1.0rem;
+      margin-right: 1.4rem;
+    }
+}
